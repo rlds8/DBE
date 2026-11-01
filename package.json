@@ -12,5 +12,13 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlds8/DBE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rlds8/DBE/issues"
+  },
+  "homepage": "https://github.com/rlds8/DBE#readme"
 }
